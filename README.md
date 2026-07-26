@@ -50,4 +50,3 @@ python run.py --depth 10 --residual-init 3.0 # 残差初期化で救う
 - [ ] Straight-Throught Estimator で discretization gap を潰す
 - [ ] k入力 LUT への一般化（FPGA の LUT6 に直接対応）
 - [ ] 配線の学習（現状の最大の弱点）
-# difflogic
